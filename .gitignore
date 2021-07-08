@@ -1,4 +1,4 @@
-
+.env
 # ignore some hidden files that appear on Mac OS:
 .DS_Store
 
